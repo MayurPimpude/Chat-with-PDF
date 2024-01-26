@@ -1,3 +1,5 @@
+## PDF Pal
+
 Chat with PDFs like a Wizard! ‍♀️
 Welcome the interactive PDF chat interface powered by Gemini and RAG! 🚀
 
@@ -23,3 +25,12 @@ Ever wished you could have a conversation with your PDFs? Well, now you can! Thi
 - **Streamlit:** Python framework for building fast, interactive web apps 🐍🚀
 
 Enjoy your magical PDF conversations! 📚💬✨
+
+# PDF Pal
+
+![image](https://github.com/MayurPimpude/Chat-with-PDF/assets/100997225/35ef4eb0-7420-4ffc-8673-8f282491e5e2)
+
+![image](https://github.com/MayurPimpude/Chat-with-PDF/assets/100997225/866d9f75-86ba-487e-a557-bb1933c32edb)
+
+![image](https://github.com/MayurPimpude/Chat-with-PDF/assets/100997225/9894ebc5-7886-4e8c-959d-418af687cede)
+
